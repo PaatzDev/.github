@@ -2,6 +2,6 @@
     "name": "Grpc Service Workflow",
     "description": "Template workflow for Dotnet GRPC service",
     "categories": [
-        "ASP.NET"
+        "csharp"
     ]
 }
