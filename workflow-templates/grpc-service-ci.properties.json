@@ -1,7 +1,4 @@
 {
     "name": "Grpc Service Workflow",
-    "description": "Template workflow for Dotnet GRPC service",
-    "categories": [
-        "C#"
-    ]
+    "description": "Template workflow for Dotnet GRPC service"
 }
