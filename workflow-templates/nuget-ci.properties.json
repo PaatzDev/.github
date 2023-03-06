@@ -1,0 +1,7 @@
+{
+    "name": "Nuget Package Workflow",
+    "description": "Template Workflow for Nuget packages.",
+    "categories": [
+        "csharp"
+    ]
+}
